@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Eneter a whole number for the array size.");
+            Console.WriteLine("Enter a whole number for the array size.");
             int arraySize = Convert.ToInt32(Console.ReadLine());
             int[] numbers = new int[arraySize];
             int sum = 0;
