@@ -23,7 +23,7 @@
             Console.WriteLine("Array:");
             foreach (int number in numbers)
             {
-                Console.WriteLine();
+                Console.WriteLine(number);
             }
         }
     }
